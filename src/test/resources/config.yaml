@@ -1,0 +1,9 @@
+#URIs
+
+qa:
+  base-uri: http://127.0.0.1
+  base-uri-port: 5000
+  random-name: http://uinames.com/api/
+  random-joke: http://api.icndb.com/jokes/random?firstName=John&lastName=Doe&limitTo=[nerdy]
+
+
