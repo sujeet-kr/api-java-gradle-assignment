@@ -5,6 +5,7 @@
     - Gradle 4.10+ 
 
 **To Execute the test:**
+
     - clone the test project `git clone https://github.com/sujeet-kr/api-java-gradle-assignment.git`
     - cd to the root of the project
     - Run the Gradle task 'cucumberRegression', using `gradle cucumberRegression`
