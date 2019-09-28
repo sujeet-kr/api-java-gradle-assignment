@@ -1,14 +1,15 @@
 ## TEST AUTOMATION FRAMEWORK FOR REST APIs SYSTEM LEVEL TESTING
 
 **Requirements:**
-    - Java 1.8+
-    - Gradle 4.10+ 
+
+- Java 1.8+
+- Gradle 4.10+ 
 
 **To Execute the test:**
 
-    - clone the test project `git clone https://github.com/sujeet-kr/api-java-gradle-assignment.git`
-    - cd to the root of the project
-    - Run the Gradle task 'cucumberRegression', using `gradle cucumberRegression`
+- clone the test project `git clone https://github.com/sujeet-kr/api-java-gradle-assignment.git`
+- cd to the root of the project
+- Run the Gradle task 'cucumberRegression', using `gradle cucumberRegression`
 
 **Items used in the RESTful API framework:**
 - Cucumber for Gherkin BDD
